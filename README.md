@@ -1,4 +1,4 @@
-# Gifs for everyone
+# Gifs for everyone!
 
 Search your favorite gifs 🦨.
 You can search gifs and delete categories of gifs.
