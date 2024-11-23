@@ -1,0 +1,22 @@
+:root {
+    --bgColor: #31511E;
+    --primaryText: #F6FCDF;
+
+    --secondaryText: #1A1A19;
+
+    --btnBg: #859F3D;
+    --btnText: #F6FCDF;
+
+    --inputBg: #F6FCDF;
+    --inputText: #1A1A19;
+    --inputBorder: #31511E;
+
+    --gifItem: #1A1A19;
+    --fontFamily: "Parkinsans";
+}
+
+body {
+    background-color: var(--bgColor);
+    font-family: var(--fontFamily), sans-serif;
+
+}
